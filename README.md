@@ -1,2 +1,3 @@
 # repo-demo
-This ism y first Git Repository.
+This im my first Git Repository.
+Subhan Khalid
