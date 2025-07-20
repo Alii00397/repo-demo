@@ -1,4 +1,4 @@
 # repo-demo
-This im my first Git Repository.
+This is my first Git Repository.
 <br>
 Author - Subhan Malik
